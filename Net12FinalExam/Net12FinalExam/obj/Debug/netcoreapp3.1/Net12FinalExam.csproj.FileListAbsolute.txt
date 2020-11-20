@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.exe
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.deps.json
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.runtimeconfig.json
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.dll
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\bin\Debug\netcoreapp3.1\Net12FinalExam.pdb
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.AssemblyInfo.cs
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.dll
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.pdb
+C:\Users\USER\source\repos\Net12FinalExam\Net12FinalExam\Net12FinalExam\obj\Debug\netcoreapp3.1\Net12FinalExam.genruntimeconfig.cache

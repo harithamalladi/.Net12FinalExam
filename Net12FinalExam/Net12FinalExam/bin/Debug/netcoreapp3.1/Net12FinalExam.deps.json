@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Net12FinalExam/1.0.0": {
+        "runtime": {
+          "Net12FinalExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Net12FinalExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
